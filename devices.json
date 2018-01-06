@@ -1,0 +1,18 @@
+{"devices":[
+  {
+    "name":"Bettlampe",
+    "room":"Julian Schlafzimmer",
+    "ip":"192.168.178.75",
+    "mac":"70:4F:57:FA:1D:A2",
+    "description":"WiFi Plug",
+    "brand":"TP-Link"
+  },
+  {
+    "name":"Schreibtischlampe",
+    "room":"Joana Schlafzimmer",
+    "ip":"192.168.178.66",
+    "mac":"70:4F:57:FA:1D:C3",
+    "description":"WiFi Plug",
+    "brand":"TP-Link"
+  }
+]}

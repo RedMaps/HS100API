@@ -1,0 +1,12 @@
+.switch{
+    display:inline-block;
+    float:right;
+}
+
+.ico{
+    display:inline-block; float:left; line-height:inherit
+}
+
+h6{
+    font-size:1.1rem;
+}
