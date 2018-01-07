@@ -59,14 +59,14 @@ All currently available commands are listed here. These will of course be added 
 
 Command  			| Description
 -------- 				| ---
-`get_info` 			| returns general information about the device and its states
-`toggle_relay` 	| toggles the plug on and off alternately
-`set_relay_on` 	| activates the plug
-`set_relay_off`	| deactivates the plug
-`get_relay_state`	| gets the state of the plug (on/off)
-`set_led_on`		| activates the led on the device
-`set_led_off`		| deactivates the led (night mode)
-`get_led_state`	| gets the led state (on/off)
+get_info 			| returns general information about the device and its states
+toggle_relay 	| toggles the plug on and off alternately
+set_relay_on 	| activates the plug
+set_relay_off	| deactivates the plug
+get_relay_state	| gets the state of the plug (on/off)
+set_led_on		| activates the led on the device
+set_led_off		| deactivates the led (night mode)
+get_led_state	| gets the led state (on/off)
 
 Again to make a request it must be in the following format (**JSON**):
 ```
